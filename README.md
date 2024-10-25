@@ -79,6 +79,16 @@ Provide a DataFrame (`df_3`) containing the following columns:
 
 **Ensure to include unit tests** to validate the uniqueness and sorting of the sales owners list, and the handling of duplicate companies.
 
+### Test 6: Data Visualization (you don't need to submit a solution to this test if not explicitly asked for)
+
+The Sales team wants to understand which sales owners are particularly successful in creating orders in plastic crates. Create a set of appropriate visualizations / reports that help your stakeholders to understand the following aspects better:
+
+- What is the distribtion of orders by crate type.
+- Which sales owners need most training to improve selling on plastic crates, based on the last 12 months orders.
+- Understand who are by month the top 5 performers selling plastic crates for a rolling 3 months evaluation window.
+
+You can use Python or Power BI for this test.
+
 ## Additional Instructions
 
 1. **Deliverables**: Ensure your code is well-commented and structured. Provide a complete execution environment as a deliverable. This should include:
