@@ -95,7 +95,7 @@ You can use Python or Power BI for this test.
    - All the source code and scripts necessary to reproduce the results.
    - Clear instructions for setting up and running the environment, including any necessary configurations.
    - A Dockerfile, if applicable, for containerized execution.
-   - A link to a Git repository containing all the above elements and ensure that access is granted to @theUniC, @carlosbuenosvinos and @ahue.
+   - A link to a Git repository containing all the above elements and ensure that access is granted to @theUniC, @carlosbuenosvinos and @ahue-ifco.
 2. **Evaluation**: Your solution will be evaluated based on accuracy, efficiency, code clarity, the comprehensiveness of your unit tests, and the completeness of the provided execution environment.
 
 Good luck!
