@@ -93,9 +93,11 @@ You can use Python or Power BI for this test.
 
 1. **Deliverables**: Ensure your code is well-commented and structured. Provide a complete execution environment as a deliverable. This should include:
    - All the source code and scripts necessary to reproduce the results.
+   - Prompts you made to AI coding assistants and other AI agents in a PROMPTs.md file. Separte prompts by --- and empty lines before and after each prompt.
    - Clear instructions for setting up and running the environment, including any necessary configurations.
    - A Dockerfile, if applicable, for containerized execution.
    - A link to a Git repository containing all the above elements and ensure that access is granted to @theUniC, @carlosbuenosvinos and @ahue-ifco.
+
 2. **Evaluation**: Your solution will be evaluated based on accuracy, efficiency, code clarity, the comprehensiveness of your unit tests, and the completeness of the provided execution environment.
 
 Good luck!
