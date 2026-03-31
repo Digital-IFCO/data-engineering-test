@@ -89,6 +89,14 @@ The Sales team wants to understand which sales owners are particularly successfu
 
 You can use Python or Power BI for this test.
 
+## On the Use of AI Coding Assistants
+
+You are welcome to use agentic coding tools (Copilot, Claude Code, Cursor, etc.) — in fact, effective use of these tools is a valuable skill. However:
+
+- Include a `REVIEW.md` **written entirely by you** documenting where the agent's output required correction, what you changed, and why. This must reflect your own critical thinking — we evaluate your judgment, not the agent's output. AI-generated reviews defeat the purpose and will be apparent.
+- **The `PROMPTS.md` file is mandatory.** Include your full prompt chain. Submissions without a `PROMPTS.md` will be rejected, regardless of solution quality.
+- Be prepared to explain every modeling decision and assumption in the interview. If you can't defend a choice the agent made, it works against you.
+
 ## Additional Instructions
 
 1. **Deliverables**: Ensure your code is well-commented and structured. Provide a complete execution environment as a deliverable. This should include:
