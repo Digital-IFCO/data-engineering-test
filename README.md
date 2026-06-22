@@ -103,7 +103,7 @@ You are welcome to use agentic coding tools (Copilot, Claude Code, Cursor, etc.)
    - All the source code and scripts necessary to reproduce the results.
    - Clear instructions for setting up and running the environment, including any necessary configurations.
    - A Dockerfile, if applicable, for containerized execution.
-   - A link to a Git repository containing all the above elements and ensure that access is granted to @theUniC, @carlosbuenosvinos and @ahue-ifco.
+   - A link to a Git repository containing all the above elements and ensure that access is granted to @theUniC, @carlosbuenosvinos and @andreashu-ifco.
 2. **Evaluation**: Your solution will be evaluated based on accuracy, efficiency, code clarity, the comprehensiveness of your unit tests, and the completeness of the provided execution environment.
 
 Good luck!
